@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21232196748",
+    "project_id": "stockoverflow2-4f45a",
+    "storage_bucket": "stockoverflow2-4f45a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21232196748:android:7235b69deec9d488162fa9",
+        "android_client_info": {
+          "package_name": "com.t15g3.esof_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB16w7mImpCq4f4AW3aG2dSEeDNUZ4iRlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -340,3 +340,4 @@ Acabamos por conseguir implementar todas as features pretendidas.
 
 <a href="https://github.com/FEUP-LEIC-ES-2023-24/2LEIC14T3/releases/tag/Sprint_3">Sprint 3 release</a>
 # ESOF
+# ESOF
